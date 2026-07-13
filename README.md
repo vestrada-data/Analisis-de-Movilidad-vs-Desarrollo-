@@ -33,7 +33,7 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
  <br>
  <br>
 
-[![Proyecto](https://img.shields.io/badge/Proyecto_completo-Ver%20aquí-0A66C2?logo=linkedin&logoColor=white)](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
+[![Proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-/blob/main/Copia_de_mobility_economy_project.ipynb)
 
 <br>
 <br>
